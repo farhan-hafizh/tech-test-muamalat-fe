@@ -1,0 +1,4 @@
+export const SET_ACCESS_TOKEN = 'App/SET_ACCESS_TOKEN';
+export const SET_REFRESH_TOKEN = 'App/SET_REFRESH_TOKEN';
+export const SET_LOGGED_IN_USER = 'App/SET_LOGGED_IN_USER';
+
